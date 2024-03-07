@@ -1,8 +1,11 @@
-import React from 'react'
 
 function Card() {
   return (
-    <div>Card</div>
+    <div className="card">
+        <img/>
+        <h2>Kevin Code</h2>
+        Card
+        </div>
   )
 }
 
