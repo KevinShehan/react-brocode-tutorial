@@ -2,7 +2,9 @@ import React from 'react'
 
 function Button() {
   return (
-    <div>Button</div>
+    <div>
+        <button className='button'>CLick me</button>
+    </div>
   )
 }
 
