@@ -10,6 +10,11 @@ function App() {
   return (
     <>
      <Card/>
+     <Card/>
+     <Card/>
+     <Card/>
+     <Card/>
+     <Card/>
     </>
   )
 }
